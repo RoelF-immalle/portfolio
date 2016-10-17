@@ -1,1 +1,5 @@
 # portfolio
+
+# CSharp
+
+# Javascript
